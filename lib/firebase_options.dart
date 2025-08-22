@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCDbs_G2vejJUW4U6yG1_Xe2xpLgA8TsOs',
+    apiKey: '',
     appId: '1:830739650048:web:5ad48ff912c7eecfeaaae5',
     messagingSenderId: '830739650048',
     projectId: 'entrepreneur-growth-guide',
@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAjo58pvydhJHLLqOKc7z-1jBNI1kYZR6U',
+    apiKey: '',
     appId: '1:830739650048:android:6edc3a02e0c2ab31eaaae5',
     messagingSenderId: '830739650048',
     projectId: 'entrepreneur-growth-guide',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAKCw-O__nU1rdoxNlKrSgkPG6CxVBYTck',
+    apiKey: '',
     appId: '1:830739650048:ios:ec40bfc03fc67a43eaaae5',
     messagingSenderId: '830739650048',
     projectId: 'entrepreneur-growth-guide',
