@@ -67,7 +67,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAKCw-O__nU1rdoxNlKrSgkPG6CxVBYTck',
+    apiKey: '',
     appId: '1:830739650048:ios:ec40bfc03fc67a43eaaae5',
     messagingSenderId: '830739650048',
     projectId: 'entrepreneur-growth-guide',
@@ -76,7 +76,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCDbs_G2vejJUW4U6yG1_Xe2xpLgA8TsOs',
+    apiKey: '',
     appId: '1:830739650048:web:a5bb962e483318f8eaaae5',
     messagingSenderId: '830739650048',
     projectId: 'entrepreneur-growth-guide',
