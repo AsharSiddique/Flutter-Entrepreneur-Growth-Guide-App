@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830739650048",
+    "project_id": "entrepreneur-growth-guide",
+    "storage_bucket": "entrepreneur-growth-guide.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830739650048:android:6edc3a02e0c2ab31eaaae5",
+        "android_client_info": {
+          "package_name": "com.egg.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjo58pvydhJHLLqOKc7z-1jBNI1kYZR6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
